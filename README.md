@@ -1,2 +1,2 @@
 # encryption
-Encrypt strings
+Encrypt strings using offsets
